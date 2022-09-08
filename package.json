@@ -1,0 +1,23 @@
+{
+  "name": "@hexlet/hexlet-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyacheslav-pv/hexlet-js.git"
+  },
+  "author": "Vyacheslav P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vyacheslav-pv/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/vyacheslav-pv/hexlet-js#readme",
+  "dependencies": {
+    "semver": "^7.3.7"
+  }
+}
