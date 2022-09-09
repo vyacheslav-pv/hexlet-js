@@ -1,5 +1,5 @@
 {
-  "name": "@hexlet/hexlet-js",
+  "name": "@hexlet/hexletjs",
   "version": "1.0.0",
   "type": "module",
   "description": "Мой первый проект на Хекслете",
@@ -19,5 +19,6 @@
   "homepage": "https://github.com/vyacheslav-pv/hexlet-js#readme",
   "dependencies": {
     "semver": "^7.3.7"
-  }
+  },
+  "keywords": []
 }
