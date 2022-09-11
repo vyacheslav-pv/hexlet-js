@@ -21,5 +21,8 @@
     "lodash": "^4.17.21",
     "semver": "^7.3.7"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
 }
